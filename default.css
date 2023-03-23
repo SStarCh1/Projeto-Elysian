@@ -1,5 +1,34 @@
+
+.capa {
+  background-image: url(imagem/capa2.png); 
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center;
+  border: 0px;
+  padding: 80px;
+  display: block;
+  max-width: 100%;
+}
+
+.icon{
+  background-image: url(imagem/icon.png);
+  background-image: ();
+  background-repeat: no-repeat;
+  background-position: left;
+  border: 0px;
+  padding: 200px;
+  max-width: 100px;
+  max-height: px;
+  
+
+}
+
+#menu{
+  background-position: center left;
+} 
+
 #body {
-    background: rgb(13,0,236);
+    background: rgb(77, 119, 235);
      }
   
 .caixa {
