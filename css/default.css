@@ -1,10 +1,10 @@
 .capa {
-  background-image: url(imagem/capa2.png);
+  background-image: url(../imagem/capa2.png);
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center;
-  padding: 80px;
   height: 60px;
+  padding: 80px;
 }
 
 .icon {
@@ -13,10 +13,10 @@
   left: 15px;
   width: 50px;
   height: 50px;
-  border-radius: 50%;
+  border-radius: 70%;
 }
 
-#menu { 
+#menu {
   background-position: center left;
   font-weight: bold;
 }
@@ -33,7 +33,6 @@
 }
 
 .caixa {
- 
   background-color: #f2f2f2;
   border: 1px solid #ddd;
   border-radius: 5px;
