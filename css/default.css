@@ -1,3 +1,30 @@
+.escondida {
+  display: none;
+}
+
+
+
+
+
+.iframe {
+  width: 100%;
+  height: 500px;
+  border: none;
+}
+
+
+.caixa {
+
+  background-color: #f2f2f2;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 20px;
+  margin: 20px;
+  width: 300px;
+  height: 250px;
+}
+
+
 .capa {
   background-image: url(../imagem/capa2.png);
   background-repeat: no-repeat;
@@ -32,15 +59,6 @@
   background: linear-gradient(to bottom, #7892c2 5%, #476e9e 100%);
 }
 
-.caixa {
-  background-color: #f2f2f2;
-  border: 1px solid #ddd;
-  border-radius: 5px;
-  padding: 20px;
-  margin: 20px;
-  width: 300px;
-  height: 250px;
-}
 .caixa {
   position: absolute;
   top: 50%;
